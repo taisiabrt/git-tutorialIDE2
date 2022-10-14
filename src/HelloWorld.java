@@ -7,4 +7,5 @@ public class HelloWorld {
     public void printName(){
         System.out.println("IVAN");
     }
+    //code from another developer
 }
